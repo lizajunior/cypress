@@ -1,0 +1,23 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "js examples for fast learning",
+  "main": "beginner-npm.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lizajunior/cypress/blob/main/index.js"
+  },
+  "keywords": [
+    "example",
+    "npm",
+    "basic"
+  ],
+  "author": "me",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
